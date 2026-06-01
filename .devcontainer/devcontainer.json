@@ -1,0 +1,11 @@
+{
+  "name": "ESP32 Wokwi",
+  "forwardPorts": [8180],
+  "portsAttributes": {
+    "8180": {
+      "label": "ESP32 Web Server",
+      "onAutoForward": "openBrowser",
+      "visibility": "public"
+    }
+  }
+}
